@@ -4,6 +4,10 @@ author_profile: true
 title: "Welcome"
 ---
 
-Welcome to my personal site. I'm a Data Scientist and Innovation Manager working at the intersection of analytics, innovation, and strategy.
+Welcome! I'm **Eduardo Salvador Rocha**, a Data Scientist and Innovation Manager passionate about solving problems with data, innovation, and strategic thinking.
 
-This site highlights my projects, writing, and professional experience.
+Here you'll find highlights of my work, research, and writing.
+
+- 📂 [Projects](./projects/)
+- 📚 [Publications](./publications/)
+- ✍️ [Blog](./blog/)
