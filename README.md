@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Page
-
+ 
 **Data Scientist | Innovation Manager | Problem Solver**
 
 Hi there! I'm [Your Name], a Data Scientist and Innovation Manager passionate about using data and technology to drive strategic decisions and create meaningful impact. My work sits at the intersection of analytics, innovation, and business transformation.
