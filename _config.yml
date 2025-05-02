@@ -1,5 +1,38 @@
-title: Eduardo Salvador Rocha
-logo: /assets/img/headshot_circle.png
-description: What a handsome man
-show_downloads: true
-theme: jekyll-theme-minimal
+#title: Eduardo Salvador Rocha
+#logo: /assets/img/headshot_circle.png
+#description: What a handsome man
+#show_downloads: true
+#theme: jekyll-theme-minimal
+
+title: "Eduardo Salvador Rocha"
+description: "Data Scientist & Innovation Manager"
+logo: "/assets/img/headshot_circle.png"
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+author:
+  name: "Eduardo Salvador Rocha"
+  avatar: "/assets/img/headshot_circle.png"
+  bio: "Data Scientist & Innovation Manager focused on innovation, analytics, and strategic transformation."
+  location: "City, Country"
+  email: "you@example.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+
+# Optional: Navigation (top menu)
+header_pages:
+  - index.md
