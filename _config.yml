@@ -37,3 +37,15 @@ author:
 # Optional: Navigation (top menu)
 header_pages:
   - index.md
+  - projects.md
+  - publications.md
+  - blog.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+
