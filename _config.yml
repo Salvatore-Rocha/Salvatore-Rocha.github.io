@@ -8,7 +8,8 @@ title: "Eduardo Salvador Rocha"
 description: "Data Scientist & Innovation Manager"
 logo: "/assets/img/headshot_circle.png"
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: default
 
