@@ -12,13 +12,9 @@ title: ""
 logo: ""
 description: ""
 author: ""
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
 
-#theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-#minimal_mistakes_skin: default
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: default
 
 plugins:
   - jekyll-feed
@@ -55,4 +51,3 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
-
