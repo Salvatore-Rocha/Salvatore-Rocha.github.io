@@ -17,7 +17,7 @@ title: "Eduardo Salvador Rocha"
 ## 👋 About
 
 <p align="center">
-  <img src="assets/img/profile.jpg" width="160" style="border-radius: 50%;"><br>
+  <img src="assets/img/headshot_circle.png" width="160" style="border-radius: 50%;"><br>
   <strong>Eduardo Salvador Rocha</strong><br>
   Data Scientist & Innovation Manager<br>
   <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> · 
