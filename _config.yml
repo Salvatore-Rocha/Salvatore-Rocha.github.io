@@ -4,14 +4,21 @@
 #show_downloads: true
 #theme: jekyll-theme-minimal
 
-title: "Eduardo Salvador Rocha"
-description: "Data Scientist & Innovation Manager"
-logo: "/assets/img/headshot_circle.png"
+#title: "Eduardo Salvador Rocha"
+#description: "Data Scientist & Innovation Manager"
+#logo: "/assets/img/headshot_circle.png"
+
+title: ""
+logo: ""
+description: ""
+author: ""
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: default
+#minimal_mistakes_skin: default
 
 plugins:
   - jekyll-feed
