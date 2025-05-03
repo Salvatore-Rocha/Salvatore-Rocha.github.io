@@ -18,31 +18,29 @@ header:
   </div>
 </div>
 
-<!-- About Section with SVG icons -->
-## 👋 About
-<div style="display: flex; gap: 1em; margin-top: 0.5em;">
-
-      <a href="https://scholar.google.com/citations?user=YOUR-ID" title="Google Scholar" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Scholar" width="22" style="filter: grayscale(100%);">
-      </a>
-
-      <a href="https://github.com/YOUR-USERNAME" title="GitHub" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="22" style="filter: grayscale(100%);">
-      </a>
-
-      <a href="https://twitter.com/YOUR-X-HANDLE" title="X" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="22" style="filter: grayscale(100%);">
-      </a>
-
-      <a href="https://linkedin.com/in/YOUR-LINK" title="LinkedIn" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="22" style="filter: grayscale(100%);">
-      </a>
-
-      <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf" title="CV" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
-      </a>
-
+<!-- About Header: Title + Icons -->
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1em;">
+  <h2 style="margin: 0;">👋 About</h2>
+  <div style="display: flex; gap: 1em;">
+    <a href="https://scholar.google.com/citations?user=YOUR-ID" title="Google Scholar" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Scholar" width="22" style="filter: grayscale(100%);">
+    </a>
+    <a href="https://github.com/YOUR-USERNAME" title="GitHub" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="22" style="filter: grayscale(100%);">
+    </a>
+    <a href="https://twitter.com/YOUR-X-HANDLE" title="X" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="22" style="filter: grayscale(100%);">
+    </a>
+    <a href="https://linkedin.com/in/YOUR-LINK" title="LinkedIn" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="22" style="filter: grayscale(100%);">
+    </a>
+    <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf" title="CV" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
+    </a>
+  </div>
 </div>
+
+
 <div style="display: flex; align-items: center; gap: 1.5em;">
   <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
   <div>
