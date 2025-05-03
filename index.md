@@ -20,13 +20,7 @@ header:
 
 <!-- About Section with SVG icons -->
 ## 👋 About
-
-<div style="display: flex; align-items: center; gap: 1.5em;">
-  <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
-  <div>
-    <p style="margin: 0; font-size: 1.2em;"><strong>Eduardo Salvador Rocha</strong></p>
-    <p style="margin-top: 0.3em;">Data Scientist & Innovation Manager focused on innovation, analytics, and strategic transformation.</p>
-    <div style="display: flex; gap: 1em; margin-top: 0.5em;">
+<div style="display: flex; gap: 1em; margin-top: 0.5em;">
 
       <a href="https://scholar.google.com/citations?user=YOUR-ID" title="Google Scholar" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Scholar" width="22" style="filter: grayscale(100%);">
@@ -48,7 +42,12 @@ header:
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
       </a>
 
-    </div>
+</div>
+<div style="display: flex; align-items: center; gap: 1.5em;">
+  <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
+  <div>
+    <!--p style="margin: 0; font-size: 1.2em;"><strong>Eduardo Salvador Rocha</strong></p-->
+    <p style="margin-top: 0.3em;">Data Scientist & Innovation Manager focused on innovation, analytics, and strategic transformation.</p>
   </div>
 </div>
 
