@@ -8,7 +8,7 @@ header:
 
 <!-- Header Navigation Bar -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: -2em; margin-bottom: 2em;">
-  <!--h1 style="margin: 0; font-size: 1.5em;">Eduardo Salvador Rocha</h1-->
+  <h1 style="margin: 0; font-size: 1.5em;">Eduardo Salvador Rocha</h1>
   <div style="font-size: 0.85em;">
     <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a> |
     <a href="#news">News</a> |
