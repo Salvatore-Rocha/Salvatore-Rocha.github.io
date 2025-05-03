@@ -1,19 +1,15 @@
 ---
 layout: single
+title: "Eduardo Salvador Rocha"
 author_profile: false
-title: ""
 header:
   overlay: false
-  show_overlay_excerpt: false
-  overlay_filter: "0"
-  image: ""
-  caption: ""
-  actions: []
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-  <h2 style="margin: 0;">👋 About</h2>
-  <div style="font-size: 0.9em;">
+<!-- Header Navigation Bar -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: -2em; margin-bottom: 2em;">
+  <h1 style="margin: 0; font-size: 1.5em;">Eduardo Salvador Rocha</h1>
+  <div style="font-size: 0.85em;">
     <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a> |
     <a href="#news">News</a> |
     <a href="#publications">Publications</a> |
@@ -22,16 +18,39 @@ header:
   </div>
 </div>
 
-<p align="center">
-  <img src="assets/img/headshot_circle.png" width="160" style="border-radius: 50%;"><br>
-  <strong style="font-size: 1.2em;">Eduardo Salvador Rocha</strong><br>
-  Data Scientist & Innovation Manager<br>
-  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> · 
-  <a href="https://github.com/YOUR-USERNAME">GitHub</a> · 
-  <a href="https://scholar.google.com/citations?user=YOUR-ID">Scholar</a> · 
-  <a href="https://twitter.com/YOUR-X-HANDLE">X</a> · 
-  <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a>
-</p>
+<!-- About Section with SVG icons -->
+## 👋 About
+
+<div style="display: flex; align-items: center; gap: 1.5em;">
+  <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
+  <div>
+    <p style="margin: 0; font-size: 1.2em;"><strong>Eduardo Salvador Rocha</strong></p>
+    <p style="margin-top: 0.3em;">Data Scientist & Innovation Manager focused on innovation, analytics, and strategic transformation.</p>
+    <div style="display: flex; gap: 1em; margin-top: 0.5em;">
+
+      <a href="https://scholar.google.com/citations?user=YOUR-ID" title="Google Scholar" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Scholar" width="22" style="filter: grayscale(100%);">
+      </a>
+
+      <a href="https://github.com/YOUR-USERNAME" title="GitHub" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="22" style="filter: grayscale(100%);">
+      </a>
+
+      <a href="https://twitter.com/YOUR-X-HANDLE" title="X" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="22" style="filter: grayscale(100%);">
+      </a>
+
+      <a href="https://linkedin.com/in/YOUR-LINK" title="LinkedIn" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="22" style="filter: grayscale(100%);">
+      </a>
+
+      <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf" title="CV" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
+      </a>
+
+    </div>
+  </div>
+</div>
 
 ---
 
