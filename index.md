@@ -1,21 +1,26 @@
 ---
 layout: single
 author_profile: false
-title: "Eduardo Salvador Rocha"
-header: false
+title: ""
+header:
+  overlay: false
+  show_overlay_excerpt: false
+  overlay_filter: "0"
+  image: ""
+  caption: ""
+  actions: []
 ---
 
-<div style="text-align: right; font-size: 0.9em; margin-top: 1em; margin-bottom: 2em;">
-  <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a> |
-  <a href="#news">News</a> |
-  <a href="#publications">Publications</a> |
-  <a href="#supervision">Supervision</a> |
-  <a href="#teaching">Teaching</a>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <h2 style="margin: 0;">👋 About</h2>
+  <div style="font-size: 0.9em;">
+    <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a> |
+    <a href="#news">News</a> |
+    <a href="#publications">Publications</a> |
+    <a href="#supervision">Supervision</a> |
+    <a href="#teaching">Teaching</a>
+  </div>
 </div>
-
----
-
-## 👋 About
 
 <p align="center">
   <img src="assets/img/headshot_circle.png" width="160" style="border-radius: 50%;"><br>
@@ -39,8 +44,8 @@ header: false
 
 ## 📚 Publications {#publications}
 
-- Rocha, E. (2024). *Responsible AI in Practice*. Journal of Innovation & Ethics.  
-- Rocha, E. (2023). *Clustering as Insight*. Data for Good Conference.
+- Rocha, E. (2024). *Responsible AI in Practice*. *Journal of Innovation & Ethics*.  
+- Rocha, E. (2023). *Clustering as Insight*. *Data for Good Conference*.
 
 ---
 
@@ -55,5 +60,3 @@ header: false
 
 - Data Science Instructor – [Institution Name], 2023  
 - Guest Lecturer – AI Ethics @ [University], 2022  
-
----
