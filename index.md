@@ -2,9 +2,10 @@
 layout: single
 author_profile: false
 title: "Eduardo Salvador Rocha"
+header: false
 ---
 
-<div style="text-align: right; font-size: 0.9em; margin-top: -2em;">
+<div style="text-align: right; font-size: 0.9em; margin-top: 1em; margin-bottom: 2em;">
   <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">CV</a> |
   <a href="#news">News</a> |
   <a href="#publications">Publications</a> |
@@ -18,7 +19,7 @@ title: "Eduardo Salvador Rocha"
 
 <p align="center">
   <img src="assets/img/headshot_circle.png" width="160" style="border-radius: 50%;"><br>
-  <strong>Eduardo Salvador Rocha</strong><br>
+  <strong style="font-size: 1.2em;">Eduardo Salvador Rocha</strong><br>
   Data Scientist & Innovation Manager<br>
   <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> · 
   <a href="https://github.com/YOUR-USERNAME">GitHub</a> · 
