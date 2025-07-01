@@ -35,7 +35,7 @@ header:
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="22" style="filter: grayscale(100%);">
     </a>
     <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf" title="CV" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/filepdf.svg" alt="CV" width="22" style="filter: grayscale(100%);">
     </a>
   </div>
 </div>
