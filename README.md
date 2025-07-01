@@ -67,7 +67,7 @@ Feel free to reach out if you’re interested in collaboration, research, or jus
 
 - 🔗 [Eduardo's LinkedIn](https://www.linkedin.com/in/salvador-rocha/)
 - 📧 [Mail](mailto:salvador.rocha.e@gmail.com)
-- 🌍 [Portfolio Website](https://github.com/Salvatore-Rocha)
+- 🌍 [Portfolio Website](https://salvatore-rocha.github.io/)
 
 ---
 
