@@ -41,11 +41,10 @@ header:
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 1.5em;">
+<div style="display: flex; align-items: flex-start; gap: 1.5em; font-size: 0.85em; line-height: 1.5;">
   <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
-  <div>
-    <!--p style="margin: 0; font-size: 1.2em;"><strong>Eduardo Salvador Rocha</strong></p-->
-    <p style="margin-top: 0.3em;">I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
+  <div style="margin-top: 0;">
+    <p style="margin: 0;"> I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
 
 I completed my Master’s (2020) at the University of Hildesheim, supervised by Dr. Julia Rieck and Dr. Lars Schmidt-Thieme. My research focused on algorithmic trading, resource allocation, and optimization.
 
