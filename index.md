@@ -47,9 +47,7 @@ header:
        width="140" 
        style="border-radius: 50%; 
               float: left; 
-              margin: 0 20px 15px 0; 
-              shape-outside: circle(50%);
-              shape-margin: 10px;">
+              margin: 0 20px 15px 0;">
   
   <p style="margin: 0; text-align: justify;">
     I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
