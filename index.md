@@ -43,7 +43,7 @@ header:
 
 <!-- Profile Section with Inline Text Wrapping -->
 <div style="font-size: 0.85em; line-height: 1.5;">
-  <img src="https://via.placeholder.com/140/4A90E2/FFFFFF?text=Profile" 
+  <img src="assets/img/headshot_circle.png" 
        width="140" 
        style="border-radius: 50%; 
               float: left; 
