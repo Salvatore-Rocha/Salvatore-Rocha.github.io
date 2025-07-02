@@ -31,7 +31,7 @@ header:
     <a href="https://twitter.com/YOUR-X-HANDLE" title="X" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="22" style="filter: grayscale(100%);">
     </a>
-    <a href="https://linkedin.com/in/YOUR-LINK" title="LinkedIn" target="_blank">
+    <a href="https://www.linkedin.com/in/salvador-rocha" title="LinkedIn" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="22" style="filter: grayscale(100%);">
     </a>
     <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf" title="CV" target="_blank">
@@ -41,24 +41,43 @@ header:
 </div>
 
 
-<div style="display: flex; align-items: flex-start; gap: 1.5em; font-size: 0.85em; line-height: 1.5;">
-  <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
-  <div style="max-width: 600px; margin-top: 0;">
-    <p style="margin: 0;">
-      I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
-
-I completed my Master’s (2020) at the University of Hildesheim, supervised by Dr. Julia Rieck and Dr. Lars Schmidt-Thieme. My research focused on algorithmic trading, resource allocation, and optimization.
-
-Before that, I earned a Diploma in Innovation and Entrepreneurship from Anahuac University (2017), and a BSc in Chemical Engineering (2013) with a focus on Materials Science from the Autonomous University of Queretaro, México.
-
-My professional journey began as a Chemical Engineer at Colgate-Palmolive’s Global Technology Center in Mexico, where I led the implementation of the Home Care European Portfolio—from lab to manufacturing. I then joined the University of Hildesheim as a Research Assistant in the Economics and Operations Department and supported teaching in Mathematical Optimization Techniques and Advanced Marketing.
-
-Back in Mexico, I worked as a Project Manager at Rotoplas Group, developing products and services for the Water Treatment and Purification Division across Mexico and Central America. I was later promoted to Scrum Master in the Transformation Office, overseeing the New Business Division with services in the U.S. and Mexico.
-
-My CV is available here.</p>
-  </div>
+<!-- Profile Section with Inline Text Wrapping -->
+<div style="font-size: 0.85em; line-height: 1.5;">
+  <img src="https://via.placeholder.com/140/4A90E2/FFFFFF?text=Profile" 
+       width="140" 
+       style="border-radius: 50%; 
+              float: left; 
+              margin: 0 20px 15px 0; 
+              shape-outside: circle(50%);
+              shape-margin: 10px;">
+  
+  <p style="margin: 0; text-align: justify;">
+    I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
+  </p>
+  
+  <p style="text-align: justify;">
+    I completed my Master's (2020) at the University of Hildesheim, supervised by Dr. Julia Rieck and Dr. Lars Schmidt-Thieme. My research focused on algorithmic trading, resource allocation, and optimization.
+  </p>
+  
+  <p style="text-align: justify;">
+    Before that, I earned a Diploma in Innovation and Entrepreneurship from Anahuac University (2017), and a BSc in Chemical Engineering (2013) with a focus on Materials Science from the Autonomous University of Queretaro, México.
+  </p>
+  
+  <p style="text-align: justify;">
+    My professional journey began as a Chemical Engineer at Colgate-Palmolive's Global Technology Center in Mexico, where I led the implementation of the Home Care European Portfolio—from lab to manufacturing. I then joined the University of Hildesheim as a Research Assistant in the Economics and Operations Department and supported teaching in Mathematical Optimization Techniques and Advanced Marketing.
+  </p>
+  
+  <p style="text-align: justify;">
+    Back in Mexico, I worked as a Project Manager at Rotoplas Group, developing products and services for the Water Treatment and Purification Division across Mexico and Central America. I was later promoted to Scrum Master in the Transformation Office, overseeing the New Business Division with services in the U.S. and Mexico.
+  </p>
+  
+  <p style="text-align: justify;">
+    My CV is available <a href="assets/files/CV_Eduardo_Salvador_Rocha.pdf">here</a>.
+  </p>
+  
+  <!-- Clear float to prevent layout issues -->
+  <div style="clear: both;"></div>
 </div>
-
 ---
 
 ## 🗞️ News {#news}
