@@ -45,7 +45,17 @@ header:
   <img src="assets/img/headshot_circle.png" width="140" style="border-radius: 50%;">
   <div>
     <!--p style="margin: 0; font-size: 1.2em;"><strong>Eduardo Salvador Rocha</strong></p-->
-    <p style="margin-top: 0.3em;">Data Scientist & Innovation Manager focused on innovation, analytics, and strategic transformation.</p>
+    <p style="margin-top: 0.3em;">I'm a professional with over 10 years of experience building and launching market-ready solutions. I combine technical and strategic thinking to help organizations innovate and make better decisions through data.
+
+I completed my Master’s (2020) at the University of Hildesheim, supervised by Dr. Julia Rieck and Dr. Lars Schmidt-Thieme. My research focused on algorithmic trading, resource allocation, and optimization.
+
+Before that, I earned a Diploma in Innovation and Entrepreneurship from Anahuac University (2017), and a BSc in Chemical Engineering (2013) with a focus on Materials Science from the Autonomous University of Queretaro, México.
+
+My professional journey began as a Chemical Engineer at Colgate-Palmolive’s Global Technology Center in Mexico, where I led the implementation of the Home Care European Portfolio—from lab to manufacturing. I then joined the University of Hildesheim as a Research Assistant in the Economics and Operations Department and supported teaching in Mathematical Optimization Techniques and Advanced Marketing.
+
+Back in Mexico, I worked as a Project Manager at Rotoplas Group, developing products and services for the Water Treatment and Purification Division across Mexico and Central America. I was later promoted to Scrum Master in the Transformation Office, overseeing the New Business Division with services in the U.S. and Mexico.
+
+My CV is available here.</p>
   </div>
 </div>
 
