@@ -54,7 +54,7 @@ header:
   </p>
   
   <p style="text-align: justify;">
-    I completed my Master's (2020) at the University of Hildesheim, supervised by Dr. Julia Rieck and Dr. Lars Schmidt-Thieme. My research focused on algorithmic trading, resource allocation, and optimization.
+    I completed my Master's (2020) at the University of Hildesheim, supervised by <a href="https://scholar.google.com/citations?user=-K5vyxQAAAAJ">Dr. Julia Rieck</a> and <a href="https://scholar.google.com/citations?user=l3taTdYAAAAJ">Dr. Lars Schmidt-Thieme</a>. My research focused on algorithmic trading, resource allocation, and optimization.
   </p>
   
   <p style="text-align: justify;">
@@ -80,26 +80,35 @@ header:
 
 ## 🗞️ News {#news}
 
-**May 2, 2025** – I’ll be attending AISTATS 2025 in Phuket, Thailand.  
-**Apr 1, 2025** – Started work on a new innovation pipeline project in the public sector.  
+
+**Apr 30th, 2025** – EPAM Tech Talks Mexico City : AI-Powered SDLC - Revolutionizing Software Development with Intelligent Agents (Roberto Meza) / AgentForce in Action: Redefining Productivity and Collaboration in Salesforce (José Rossette)
+
 
 ---
 
-## 📚 Publications {#publications}
+## 📚 My Work {#publications & #work}
 
-- Rocha, E. (2024). *Responsible AI in Practice*. *Journal of Innovation & Ethics*.  
-- Rocha, E. (2023). *Clustering as Insight*. *Data for Good Conference*.
+- *[Santander’s Banking App Mexico: Streamlining Loan Rates for Users](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf) In Spanish* – Project on Behavioural Economics, Santander México, 2023
+- *[Algorithmic Trading Using Long Short-Term Memory Network and Portfolio Optimization](https://publikationen.bibliothek.kit.edu/1000138284)* – Published in Karlsuher Institut für Technologie - Repository KITopen, 2021
+- *[Variational Autoencoders - The dimensionality of Human emmotions](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) Deep Learning Project, [Salvador Rocha E.](https://scholar.google.com/citations?user=t-gPQNYAAAAJ), [Barradas Chacón A.](https://scholar.google.com/citations?user=L5CH6IEAAAAJ), [Werner T.](https://scholar.google.com/citations?user=Ipk_vicAAAAJ)* – Universität Hildesheim, Germany, 2018 
+- *Optimizing Pilot Plant Experimental Design for Enhanced Efficiency and Cost Reduction* – Colgate Palmolive GTC, México, 2015
 
 ---
 
-## 🧑‍🎓 Supervision {#supervision}
+## 🧑‍🎓 Conferences & Talks {#conferences #talks}
 
-- Ana López — Master's research on digital transformation (2023)  
-- Carlos Méndez — Undergraduate thesis on machine learning in logistics (2022)  
+- *[Data Analysis in Finance - Algorithmic Trading](https://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf) Book of Abstracts, pag. 35* – Talk in the European Conference of Data Analysis (ECDA), Bayreuth, 2019 
+- *Using Data to Enhance product Performance in the Balcans* – Colgate Talks, Mexico City, 2016
+- *[IR-Based Method for Phytic Acid in Soybeans for Farming](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/main/Docs/Constancia%20AIMQ.pdf)* – Asociación Mexicana De Química Analítica A.C. (AMQA), Mexico City, 2012
 
 ---
 
 ## 🎓 Teaching {#teaching}
 
-- Data Science Instructor – [Institution Name], 2023  
-- Guest Lecturer – AI Ethics @ [University], 2022  
+- Peer Training – Scrum Essentials for Team Success @ [Grupo Rotoplas S.A. de C.V.](https://rotoplas.com/), 2021-2023
+- Teaching Assistant (HiWi) – Avanced Marketing Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), 2019
+- Teaching Assistant (HiWi) – Modern Optimization Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), 2018
+- Peer Training – Applied Statistics for Experimental Design @ [Colgate Palmolive GTC](https://www.colgatepalmolive.com.mx/), 2015-2016
+- Teaching Assistant – Phase Equilibria and Solutions @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2012
+- Teaching Assistant – Differential Equations @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2011
+- Teaching Assistant – Thermodynamics @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2010  
