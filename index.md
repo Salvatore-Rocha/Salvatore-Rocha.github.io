@@ -42,7 +42,7 @@ header:
 
 
 <!-- Profile Section with Inline Text Wrapping -->
-<div style="font-size: 0.85em; line-height: 1.5;">
+<div style="font-size: 0.80em; line-height: 1.5;">
   <img src="assets/img/headshot_circle.png" 
        width="140" 
        style="border-radius: 50%; 
