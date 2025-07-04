@@ -4,6 +4,8 @@ title: ""
 author_profile: false
 header:
   overlay: false
+footer: 
+  label: "Last updated: {{ site.time | date: '%B %d, %Y' }}"
 ---
 
 <!-- Header Navigation Bar -->
@@ -103,12 +105,42 @@ header:
 
 ---
 
-## 🎓 Teaching {#teaching}
+## 🎓 Teaching Assistantships {#teaching}
 
-- Peer Training – Scrum Essentials for Team Success @ [Grupo Rotoplas S.A. de C.V.](https://rotoplas.com/), 2021-2023
-- Teaching Assistant (HiWi) – Avanced Marketing Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), 2019
-- Teaching Assistant (HiWi) – Modern Optimization Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), 2018
-- Peer Training – Applied Statistics for Experimental Design @ [Colgate Palmolive GTC](https://www.colgatepalmolive.com.mx/), 2015-2016
-- Teaching Assistant – Phase Equilibria and Solutions @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2012
-- Teaching Assistant – Differential Equations @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2011
-- Teaching Assistant – Thermodynamics @ [Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), 2010  
+- Peer Training 2021-2023 – @ [Grupo Rotoplas S.A. de C.V.](https://rotoplas.com/)
+  - This training was designed to introduce new members of the Scrum Teams for the New Bussines Divisions on the way of work in Agile. 
+  - Topics: Introduction to Agile, Scrum values and principles, Scrum Roles and Responsibilities, Scrum Events, Scrum Artifacts, Collaboration and communication in Scrum teams, 
+  
+- Summer 2019 – Avanced Marketing Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), by [Dr. Prof. Klaus Ambrosi](https://scholar.google.com/citations?user=-K5vyxQAAAAJ) 
+  - This is an optional course in the Master's program in Machine Learning and Data Analytics.
+  - Topics: Principal Component Analysis, customer segmentation and clustering, sentiment analysis, pricing optimization, budget allocation, ROAS optimization, recommender systems, and forecasting, all applied to practical use cases in marketing. In addition, other approaches—such as multidimensional scaling and conjoint analysis—are discussed within the marketing context.
+ 
+  
+- Spring & Winter 2018 (HiWi) – Modern Optimization Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/) by [Prof. Dr. Dr. Lars Schmidt-Thieme](https://scholar.google.com/citations?user=l3taTdYAAAAJ)
+  - This course is a core requirement for all students enrolled in the Master's program in Machine Learning and Data Analytics.
+  - Topics: Convex Sets and Convex Functions, Convex Optimization Problems and Duality, Karush-Kuhn-Tucker (KKT) Conditions, Newton and Quasi-Newton Methods, Constrained Optimization (Projected Gradient, Lagrangian methods), Stochastic Gradient Descent (SGD) and Mini-Batching, Regularization (L1, L2, Elastic Net), Sparse Optimization (Lasso, feature selection), Optimization in Deep Learning (Adam, RMSProp, Learning Rate Schedules), Coordinate Descent and Block Methods
+
+
+- Peer Training 2015-2016 – Applied Statistics for Experimental Design @ [Colgate Palmolive GTC](https://www.colgatepalmolive.com.mx/),
+  - This training was designed to enhance the analytical capabilities of peers and interns in experimental testing and modeling.
+  - Topics: Types of data and variables, Descriptive statistics (mean, variance, standard deviation), Hypothesis Testing and Confidence Intervals, Analysis of Variance (ANOVA), Experimental Design Principles, Regression and Correlation Analysis, Design and Analysis of Experiments (DOE), Response surface methodology (RSM), Statistical Software Tools (R, Minitab)
+
+- Spring & Winter 2012: Phase Equilibria and Solutions, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [M. en C. Ma. Eustolia Rodriguez Muñoz](https://www.researchgate.net/scientific-contributions/Ma-Eustolia-Rodriguez-Munoz-2115327772)
+  - This is a foundational course for all the students in the Chemistry Faculty.
+  - Topics: Gibbs phase rule, Single-component systems, Critical point, triple point, and phase transitions, Properties of Solutions, Phase Diagrams for Multicomponent Systems, Colligative Properties, Thermodynamics of Solutions, Electrolyte Solutions, Applications and Experimental Methods
+
+- Spring & Winter 2012: Differential Equations, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [Prof. Fidel Leon Gonzalez](https://www.researchgate.net/profile/Fidel-Gonzalez)
+  - This is a foundational course required for all students in the Faculty of Chemistry.
+  - Topics: Limits and Continuity, Derivatives, Higher-Order Derivatives and applications, Implicit Differentiation and Logarithmic Differentiation, Linear Approximation, L’Hôpital’s Rule, Indeterminate forms, Laplace and Fourier Methods. 
+
+- Winter 2010, Spring 2011: Thermodynamics, Faculty of Chemistry  @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/),by [Dr. José de Jesús Coronel Hernández](https://scholar.google.com/citations?user=aFlNookAAAAJ)
+  - This is a foundational course required for all students in the Faculty of Chemistry.
+  - Topics: thermodynamics laws, energy & heat, enthalpy, entropy, and Gibbs free energy. Emphasis on their applications to chemical reactions and physical transformations.
+
+## 📚 Academic Service
+
+- Student Representative (a.k.a. Student Counselor), Faculty of Chemistry, Universidad Autónoma de Querétaro (UAQ), 2012–2013
+
+- President, Student Body of the Faculty of Chemistry, UAQ, 2012
+
+- Program Committee Chair, Restructuring of the Study Programs, Faculty of Chemistry, UAQ, 2014
