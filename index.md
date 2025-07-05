@@ -8,26 +8,6 @@ footer:
   label: "Last updated: {{ site.time | date: '%B %d, %Y' }}"
 ---
 
-<style>
-  .main-content {
-    font-size: 0.80em;
-    line-height: 1.5;
-    color: #333;
-  }
-  
-  .main-content p, .main-content li, .main-content div {
-    color: #333;
-  }
-  
-  .main-content h2 {
-    color: #333;
-  }
-  
-  .main-content strong {
-    color: #333;
-  }
-</style>
-
 <!-- Header Navigation Bar -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: -2em; margin-bottom: 2em;">
   <h2 style="margin: 0; font-size: 0.8em;">Eduardo Salvador Rocha</h2>
@@ -62,7 +42,6 @@ footer:
   </div>
 </div>
 
-<div class="main-content">
 
 <!-- Profile Section with Inline Text Wrapping -->
 <div style="font-size: 0.80em; line-height: 1.5; color: #333;">
@@ -99,14 +78,19 @@ footer:
   <!-- Clear float to prevent layout issues -->
   <div style="clear: both;"></div>
 </div>
+---
+
+<div style="font-size: 0.80em; line-height: 1.5; color: #333;">
 
 ## 🗞️ News {#news}
 
+
 **Apr 30th, 2025** – EPAM Tech Talks Mexico City : AI-Powered SDLC - Revolutionizing Software Development with Intelligent Agents (Roberto Meza) / AgentForce in Action: Redefining Productivity and Collaboration in Salesforce (José Rossette)
+
 
 ---
 
-## 📚 My Work {#publications}
+## 📚 My Work {#publications & #work}
 
 - *[Santander's Banking App Mexico: Streamlining Loan Rates for Users](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf) In Spanish* – Project on Behavioural Economics, Santander México, 2023
 - *[Algorithmic Trading Using Long Short-Term Memory Network and Portfolio Optimization](https://publikationen.bibliothek.kit.edu/1000138284)* – Published in Karlsuher Institut für Technologie - Repository KITopen, 2021
@@ -115,7 +99,7 @@ footer:
 
 ---
 
-## 🧑‍🎓 Conferences & Talks {#conferences}
+## 🧑‍🎓 Conferences & Talks {#conferences #talks}
 
 - *[Data Analysis in Finance - Algorithmic Trading](https://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf) Book of Abstracts, pag. 35* – Talk in the European Conference of Data Analysis (ECDA), Bayreuth, 2019 
 - *Using Data to Enhance product Performance in the Balcans* – Colgate Talks, Mexico City, 2016
@@ -125,33 +109,35 @@ footer:
 
 ## 🎓 Teaching Assistantships {#teaching}
 
-**Peer Training 2021-2023** – @ [Grupo Rotoplas S.A. de C.V.](https://rotoplas.com/)
-- This training was designed to introduce new members of the Scrum Teams for the New Bussines Divisions on the way of work in Agile. 
-- Topics: Introduction to Agile, Scrum values and principles, Scrum Roles and Responsibilities, Scrum Events, Scrum Artifacts, Collaboration and communication in Scrum teams
+- Peer Training 2021-2023 – @ [Grupo Rotoplas S.A. de C.V.](https://rotoplas.com/)
+  - This training was designed to introduce new members of the Scrum Teams for the New Bussines Divisions on the way of work in Agile. 
+  - Topics: Introduction to Agile, Scrum values and principles, Scrum Roles and Responsibilities, Scrum Events, Scrum Artifacts, Collaboration and communication in Scrum teams, 
+  
+- Summer 2019 – Avanced Marketing Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), by [Dr. Prof. Klaus Ambrosi](https://scholar.google.com/citations?user=-K5vyxQAAAAJ) 
+  - This is an optional course in the Master's program in Machine Learning and Data Analytics.
+  - Topics: Principal Component Analysis, customer segmentation and clustering, sentiment analysis, pricing optimization, budget allocation, ROAS optimization, recommender systems, and forecasting, all applied to practical use cases in marketing. In addition, other approaches—such as multidimensional scaling and conjoint analysis—are discussed within the marketing context.
+ 
+  
+- Spring & Winter 2018 (HiWi) – Modern Optimization Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/) by [Prof. Dr. Dr. Lars Schmidt-Thieme](https://scholar.google.com/citations?user=l3taTdYAAAAJ)
+  - This course is a core requirement for all students enrolled in the Master's program in Machine Learning and Data Analytics.
+  - Topics: Convex Sets and Convex Functions, Convex Optimization Problems and Duality, Karush-Kuhn-Tucker (KKT) Conditions, Newton and Quasi-Newton Methods, Constrained Optimization (Projected Gradient, Lagrangian methods), Stochastic Gradient Descent (SGD) and Mini-Batching, Regularization (L1, L2, Elastic Net), Sparse Optimization (Lasso, feature selection), Optimization in Deep Learning (Adam, RMSProp, Learning Rate Schedules), Coordinate Descent and Block Methods
 
-**Summer 2019** – Avanced Marketing Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/), by [Dr. Prof. Klaus Ambrosi](https://scholar.google.com/citations?user=-K5vyxQAAAAJ) 
-- This is an optional course in the Master's program in Machine Learning and Data Analytics.
-- Topics: Principal Component Analysis, customer segmentation and clustering, sentiment analysis, pricing optimization, budget allocation, ROAS optimization, recommender systems, and forecasting, all applied to practical use cases in marketing. In addition, other approaches—such as multidimensional scaling and conjoint analysis—are discussed within the marketing context.
 
-**Spring & Winter 2018 (HiWi)** – Modern Optimization Techniques @ [Universität Hildesheim](https://www.ismll.uni-hildesheim.de/) by [Prof. Dr. Dr. Lars Schmidt-Thieme](https://scholar.google.com/citations?user=l3taTdYAAAAJ)
-- This course is a core requirement for all students enrolled in the Master's program in Machine Learning and Data Analytics.
-- Topics: Convex Sets and Convex Functions, Convex Optimization Problems and Duality, Karush-Kuhn-Tucker (KKT) Conditions, Newton and Quasi-Newton Methods, Constrained Optimization (Projected Gradient, Lagrangian methods), Stochastic Gradient Descent (SGD) and Mini-Batching, Regularization (L1, L2, Elastic Net), Sparse Optimization (Lasso, feature selection), Optimization in Deep Learning (Adam, RMSProp, Learning Rate Schedules), Coordinate Descent and Block Methods
+- Peer Training 2015-2016 – Applied Statistics for Experimental Design @ [Colgate Palmolive GTC](https://www.colgatepalmolive.com.mx/),
+  - This training was designed to enhance the analytical capabilities of peers and interns in experimental testing and modeling.
+  - Topics: Types of data and variables, Descriptive statistics (mean, variance, standard deviation), Hypothesis Testing and Confidence Intervals, Analysis of Variance (ANOVA), Experimental Design Principles, Regression and Correlation Analysis, Design and Analysis of Experiments (DOE), Response surface methodology (RSM), Statistical Software Tools (R, Minitab)
 
-**Peer Training 2015-2016** – Applied Statistics for Experimental Design @ [Colgate Palmolive GTC](https://www.colgatepalmolive.com.mx/)
-- This training was designed to enhance the analytical capabilities of peers and interns in experimental testing and modeling.
-- Topics: Types of data and variables, Descriptive statistics (mean, variance, standard deviation), Hypothesis Testing and Confidence Intervals, Analysis of Variance (ANOVA), Experimental Design Principles, Regression and Correlation Analysis, Design and Analysis of Experiments (DOE), Response surface methodology (RSM), Statistical Software Tools (R, Minitab)
+- Spring & Winter 2012: Phase Equilibria and Solutions, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [M. en C. Ma. Eustolia Rodriguez Muñoz](https://www.researchgate.net/scientific-contributions/Ma-Eustolia-Rodriguez-Munoz-2115327772)
+  - This is a foundational course for all the students in the Chemistry Faculty.
+  - Topics: Gibbs phase rule, Single-component systems, Critical point, triple point, and phase transitions, Properties of Solutions, Phase Diagrams for Multicomponent Systems, Colligative Properties, Thermodynamics of Solutions, Electrolyte Solutions, Applications and Experimental Methods
 
-**Spring & Winter 2012** – Phase Equilibria and Solutions, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [M. en C. Ma. Eustolia Rodriguez Muñoz](https://www.researchgate.net/scientific-contributions/Ma-Eustolia-Rodriguez-Munoz-2115327772)
-- This is a foundational course for all the students in the Chemistry Faculty.
-- Topics: Gibbs phase rule, Single-component systems, Critical point, triple point, and phase transitions, Properties of Solutions, Phase Diagrams for Multicomponent Systems, Colligative Properties, Thermodynamics of Solutions, Electrolyte Solutions, Applications and Experimental Methods
+- Spring & Winter 2012: Differential Equations, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [Prof. Fidel Leon Gonzalez](https://www.researchgate.net/profile/Fidel-Gonzalez)
+  - This is a foundational course required for all students in the Faculty of Chemistry.
+  - Topics: Limits and Continuity, Derivatives, Higher-Order Derivatives and applications, Implicit Differentiation and Logarithmic Differentiation, Linear Approximation, L'Hôpital's Rule, Indeterminate forms, Laplace and Fourier Methods. 
 
-**Spring & Winter 2012** – Differential Equations, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [Prof. Fidel Leon Gonzalez](https://www.researchgate.net/profile/Fidel-Gonzalez)
-- This is a foundational course required for all students in the Faculty of Chemistry.
-- Topics: Limits and Continuity, Derivatives, Higher-Order Derivatives and applications, Implicit Differentiation and Logarithmic Differentiation, Linear Approximation, L'Hôpital's Rule, Indeterminate forms, Laplace and Fourier Methods. 
-
-**Winter 2010, Spring 2011** – Thermodynamics, Faculty of Chemistry  @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/), by [Dr. José de Jesús Coronel Hernández](https://scholar.google.com/citations?user=aFlNookAAAAJ)
-- This is a foundational course required for all students in the Faculty of Chemistry.
-- Topics: thermodynamics laws, energy & heat, enthalpy, entropy, and Gibbs free energy. Emphasis on their applications to chemical reactions and physical transformations.
+- Winter 2010, Spring 2011: Thermodynamics, Faculty of Chemistry  @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/),by [Dr. José de Jesús Coronel Hernández](https://scholar.google.com/citations?user=aFlNookAAAAJ)
+  - This is a foundational course required for all students in the Faculty of Chemistry.
+  - Topics: thermodynamics laws, energy & heat, enthalpy, entropy, and Gibbs free energy. Emphasis on their applications to chemical reactions and physical transformations.
 
 ## 📚 Academic Service
 
