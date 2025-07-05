@@ -44,7 +44,7 @@ footer:
 
 
 <!-- Profile Section with Inline Text Wrapping -->
-<div style="font-size: 0.80em; line-height: 1.5;">
+<div style="font-size: 0.80em; line-height: 1.5; color: #333;">
   <img src="assets/img/headshot_circle.png" 
        width="140" 
        style="border-radius: 50%; 
@@ -80,6 +80,8 @@ footer:
 </div>
 ---
 
+<div style="font-size: 0.80em; line-height: 1.5; color: #333;">
+
 ## 🗞️ News {#news}
 
 
@@ -90,7 +92,7 @@ footer:
 
 ## 📚 My Work {#publications & #work}
 
-- *[Santander’s Banking App Mexico: Streamlining Loan Rates for Users](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf) In Spanish* – Project on Behavioural Economics, Santander México, 2023
+- *[Santander's Banking App Mexico: Streamlining Loan Rates for Users](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf) In Spanish* – Project on Behavioural Economics, Santander México, 2023
 - *[Algorithmic Trading Using Long Short-Term Memory Network and Portfolio Optimization](https://publikationen.bibliothek.kit.edu/1000138284)* – Published in Karlsuher Institut für Technologie - Repository KITopen, 2021
 - *[Variational Autoencoders - The dimensionality of Human emmotions](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) Deep Learning Project, [Salvador Rocha E.](https://scholar.google.com/citations?user=t-gPQNYAAAAJ), [Barradas Chacón A.](https://scholar.google.com/citations?user=L5CH6IEAAAAJ), [Werner T.](https://scholar.google.com/citations?user=Ipk_vicAAAAJ)* – Universität Hildesheim, Germany, 2018 
 - *Optimizing Pilot Plant Experimental Design for Enhanced Efficiency and Cost Reduction* – Colgate Palmolive GTC, México, 2015
@@ -131,7 +133,7 @@ footer:
 
 - Spring & Winter 2012: Differential Equations, Faculty of Chemistry @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/) by [Prof. Fidel Leon Gonzalez](https://www.researchgate.net/profile/Fidel-Gonzalez)
   - This is a foundational course required for all students in the Faculty of Chemistry.
-  - Topics: Limits and Continuity, Derivatives, Higher-Order Derivatives and applications, Implicit Differentiation and Logarithmic Differentiation, Linear Approximation, L’Hôpital’s Rule, Indeterminate forms, Laplace and Fourier Methods. 
+  - Topics: Limits and Continuity, Derivatives, Higher-Order Derivatives and applications, Implicit Differentiation and Logarithmic Differentiation, Linear Approximation, L'Hôpital's Rule, Indeterminate forms, Laplace and Fourier Methods. 
 
 - Winter 2010, Spring 2011: Thermodynamics, Faculty of Chemistry  @[Universidad Autónoma de Querétaro](https://quimica.uaq.mx/),by [Dr. José de Jesús Coronel Hernández](https://scholar.google.com/citations?user=aFlNookAAAAJ)
   - This is a foundational course required for all students in the Faculty of Chemistry.
@@ -144,3 +146,5 @@ footer:
 - President, Student Body of the Faculty of Chemistry, UAQ, 2012
 
 - Program Committee Chair, Restructuring of the Study Programs, Faculty of Chemistry, UAQ, 2014
+
+</div>
